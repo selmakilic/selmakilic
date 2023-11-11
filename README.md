@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Selma.I worked as an Electrical Engineer in the Construction Department between 12.2015 - 06.2023. These daysI have started on 06.2023 the AWS DevOps Course .<br>I want to gain new experiences by further improving my knowledge in the field of IT with this course.
+I have experienced Electrical Engineer with a significant role in the construction and successful electrical setup of Ankara Etlik Integrated Health Campus (2015-2023). Transitioned to technology with an Online AWS & DevOps Bootcamp, gaining expertise in AWS services including EC2, S3, RDS, and CloudFormation. Skilled in CI/CD Pipelines, in DevOps Terraform, Ansible, Docker ve Kubernetes enhancing my automation and configuration management capabilities. Eager to contribute to innovative DevOps solutions in a dynamic environment, leveraging my technical background and newfound cloud computing skills.
 
 
 ## 🌐 Socials:
